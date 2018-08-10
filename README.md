@@ -1,4 +1,4 @@
-# my-desktop
+# vue-template
 
 > A Vue.js project
 
